@@ -28,12 +28,3 @@ How devices are identified on a network — logically (IP) and physically (MAC)
 - [ ] Ran `ipconfig` (Windows) or `ip a` (Linux/Mac)
 - [ ] Identified: my IP address, subnet mask, default gateway, MAC address
 
-## 📝 My Notes (in my own words)
-> Paste your own `ip a` / `ipconfig` output (redact anything sensitive) and
-> label each value you found.
-
-(fill in here)
-
-## ✅ Quiz Results
-- Score: __ / __
-- Date:
