@@ -26,17 +26,7 @@ core idea of networking before diving into technical layers.
     itself is the biggest WAN)
 
 ## 💻 Practice Log
-- [ ] Created `cybersec-journey` repo on GitHub
 - [ ] Installed VirtualBox
 - [ ] Created TryHackMe account, opened Pre Security path
 - [ ] Watched NetworkChuck's networking intro video
 
-## 📝 My Notes (in my own words)
-> Write your own answer to "What is a network?" here after watching the video.
-> Aim for 3–5 sentences — what it is, why it's needed, one real example.
-
-(fill in here)
-
-## ✅ Quiz Results
-- Score: __ / __
-- Date:
